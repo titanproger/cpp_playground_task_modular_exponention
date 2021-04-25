@@ -1,0 +1,9 @@
+
+https://cse.buffalo.edu/srds2009/escs2009_submission_Gopal.pdf
+
+
+https://github.com/niekbouman/ctbignum
+
+
+#  Montgomery_modular_multiplication
+https://en.wikipedia.org/wiki/Montgomery_modular_multiplication
