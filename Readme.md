@@ -40,6 +40,11 @@ m = 0,10^9    1 000 000 000
 
 
 # Build
+  in sandbox run 
+  `./build.sh`
+  
+  or
+
   `mkdir build`
 
   `cd build`
